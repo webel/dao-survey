@@ -1,6 +1,6 @@
 # Thesis Survey
 
-The live survey is [here](thesis.stenqvist.co/#survey).
+The live survey is [here](https://thesis.stenqvist.co/#survey).
 
 The communities input is seen as the most indicative to which way the wind blows within the DAO space seeing as it moves fast and at the whim of the beating hearts of the community.
 
