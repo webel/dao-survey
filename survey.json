@@ -29,15 +29,17 @@
   },
   {
     "label": "What functions do DAOs have? That replace current functions? That are completely novel?",
-    "help": "Here I want to know what DAOs are used for, and if these usecases replace something existing, or if they are completely novel."
+    "help": "Here I want to know what DAOs are used for, and if these use cases replace something existing, or if they are completely novel.",
+    "input": "textarea"
   },
   {
     "label": "What are three words that come to mind when you hear DAO?",
-    "help": "Don't think! Just write, separate with commas."
+    "help": "Don't think! Just write, separate with commas.",
+    "input": "textarea"
   },
   {
     "label": "What should I be asking? Any other input regarding the above questions?",
-    "help": "",
+    "help": "If you'd like to be more involved than jotting down thoughts in the textarea below, see the public repository <a href=\"https://github.com/webel/dao-survey\">https://github.com/webel/dao-survey</a>.",
     "input": "textarea"
   }
 ]
