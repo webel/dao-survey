@@ -1,7 +1,7 @@
 [
   {
-    "label": "Which was the first DAO? Why?",
-    "help": "There seems to be no consensus on what the beginning was, some say Bitcoin is a DAO. Others that \"The DAO\" was the first DAO. Here I'd like to know what you think, and why.",
+    "label": "What reflects legitimacy in a DAO?",
+    "help": "Legitimacy in the sense of trustworthiness – it could be average voting ratio, community engagement, etc.",
     "input": "textarea",
     "required": true
   },
@@ -12,29 +12,30 @@
     "required": true
   },
   {
-    "label": "What reflects legitimacy in a DAO?",
-    "help": "Legitimacy in the sense of trustworthiness – it could be average voting ratio, community engagement, etc.",
+    "label": "Which are the most \"prominent\" DAOs today?",
+    "help": "",
     "input": "textarea",
     "required": true
   },
   {
-    "label": "Which are the most prominent DAOs today?",
-    "help": "",
+    "label": "What makes a DAO \"prominent\"?",
+    "help": "Is it their social presence? That everyone seems to be talking about them? Their assets?",
+    "input": "textarea",
+    "required": true
+  },
+  {
+    "label": "What are three words that come to mind when you hear DAO?",
+    "help": "Don't think! Just write, separate with commas.",
     "input": "textarea"
   },
   {
-    "label": "What makes these DAOs \"prominent\"?",
-    "help": "Is it their social presence? That everyone seems to be talking about them? Their assets?",
+    "label": "Which was the first DAO? Why?",
+    "help": "There seems to be no consensus on what the beginning was, some say Bitcoin is a DAO. Others that \"The DAO\" was the first DAO. Here I'd like to know what you think, and why.",
     "input": "textarea"
   },
   {
     "label": "What functions do DAOs have? That replace current functions? That are completely novel?",
     "help": "Here I want to know what DAOs are used for, and if these use cases replace something existing, or if they are completely novel.",
-    "input": "textarea"
-  },
-  {
-    "label": "What are three words that come to mind when you hear DAO?",
-    "help": "Don't think! Just write, separate with commas.",
     "input": "textarea"
   },
   {
